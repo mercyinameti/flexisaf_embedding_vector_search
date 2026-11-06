@@ -108,8 +108,8 @@ Re-ranking fixed Q04 at top-1. Two model replies could not be read (Q06 and Q14)
 - `requirements.txt`: pinned package versions
 - `.env.example`: template for the API key setting
 - `BAD_RESULT.md`: a failed question, the change made, and the outcome
-- `RISKS_AND_LIMITATIONS.md`: known risks and limits
+- `risks_and_limitations.md`: known risks and limits
 
 ## Limits
 
-See `RISKS_AND_LIMITATIONS.md`. In short: the corpus is small and written by the project author, the answer key is a judgement, the re-ranking change was chosen after seeing the failure it fixes, and the system returns passages rather than answers.
+See `risks_and_limitations.md`. In short: the corpus is small and written by the project author, the answer key is a judgement, the re-ranking change was chosen after seeing the failure it fixes, and the system returns passages rather than answers.
