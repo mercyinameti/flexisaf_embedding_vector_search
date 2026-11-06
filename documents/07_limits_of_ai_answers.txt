@@ -1,0 +1,9 @@
+Limits of AI Answers
+
+AI systems can produce clear, fluent answers on almost any topic, but fluency is not the same as accuracy. A system may give a confident answer that is incorrect, incomplete, or made up. This is sometimes called hallucination, and it can happen even when the answer looks well organised.
+
+AI answers are also limited by the data they learned from. If a topic is rare, recent, or poorly documented, the system may have little reliable information to draw on. In these cases, it may fill the gaps with plausible guesses rather than saying it does not know.
+
+Context matters too. An AI system often does not know your situation, your location, or the purpose behind your question unless you tell it. A general answer about a medical symptom, a legal problem, or a money decision may not fit your specific case.
+
+Good practice is to treat an AI answer as a starting point. Check important facts against trusted sources, ask for the reasons behind an answer, and be especially careful with names, numbers, dates, and quotations, which are easy to get wrong.

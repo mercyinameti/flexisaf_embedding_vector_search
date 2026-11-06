@@ -1,0 +1,9 @@
+Privacy and Personal Data
+
+AI systems often learn from data, and that data can include personal information such as names, email addresses, phone numbers, photos, health records, or details about where a person lives or works. Before sharing personal information with any AI tool, it is worth asking what the tool does with the data and whether it is stored or used for training.
+
+Some information should rarely be shared with an AI tool at all. This includes passwords, bank account and card numbers, national identity numbers, private medical records, and confidential information belonging to an employer or school. Once information is entered into an online service, it may be kept longer than you expect, and you may have little control over it.
+
+Privacy also applies to other people. Sharing a friend's photo, message, or personal story with an AI tool means sharing their information, too. It is good practice to ask for their permission first, or to remove details that could identify them.
+
+Read the privacy settings and terms of any AI tool you use. Look for options to turn off data sharing or training where available, and share only the information that the task actually needs.

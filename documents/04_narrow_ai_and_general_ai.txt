@@ -1,0 +1,9 @@
+Narrow AI and General AI
+
+Most AI systems in use today are narrow AI. A narrow AI system is built to do one specific task or a small set of related tasks well. A spam filter, a translation app, and a face-unlock feature are all narrow AI. Each one performs its task within limits, and it cannot simply switch to a different task on its own.
+
+General AI, sometimes called artificial general intelligence, would be a system able to learn and perform a wide range of intellectual tasks, the way a person can. It could move between subjects, transfer what it learned in one area to another, and handle problems it was never specifically built for. Such a system does not exist yet, and experts disagree about when, or whether, it will be built.
+
+The difference matters because the two are often confused in news and conversation. A system that writes fluent text or answers many questions can look general, but it may still be narrow in how it works, trained for particular kinds of patterns and tasks.
+
+When you read about AI, check which kind is being described. A claim about a narrow tool, such as a photo classifier, is very different from a claim about a system that can do anything a person can do.

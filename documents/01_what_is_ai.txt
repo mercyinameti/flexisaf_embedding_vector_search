@@ -1,0 +1,11 @@
+What Is AI
+
+Artificial intelligence, or AI, is the field of building computer systems that do tasks which normally need human thinking. Those tasks include recognising pictures, understanding spoken or written language, and making predictions from past information.
+
+Many everyday tools use AI. A phone may unlock with your face, a map app may estimate how long a trip will take, and a messaging app may suggest the next word you want to type. Each of these tools was built to handle one kind of task well.
+
+AI does not think the way people do. An AI system does not have feelings, personal experiences, or an understanding of the world in the way a person does. Instead, it works by following patterns it has learned from large amounts of data, or by following rules that people wrote for it.
+
+Because the term is so broad, people use it in many different ways. Some use it for a simple rule-based program, while others use it for systems that learn from data. This is why it helps to ask what a specific tool actually does, rather than accepting the label on its own.
+
+Understanding what AI is, and what it is not, is the first step toward using it well. It helps you judge when an AI tool is useful, and when its answers should be checked.

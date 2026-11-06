@@ -1,0 +1,9 @@
+What Is Machine Learning
+
+Machine learning is one way of building AI. Instead of a programmer writing every rule by hand, the system learns patterns from examples. You show it many examples, and it adjusts itself until it can make useful predictions about new examples it has not seen before.
+
+A simple example is spam filtering. A developer does not write a list of every possible spam message. Instead, they give the system thousands of emails, each labelled as spam or not spam. The system finds patterns in the labelled examples, such as certain words, links, or sender habits, and uses them to judge new emails.
+
+Machine learning is part of AI, but it is not the same thing as all of AI. Some AI systems still rely mainly on written rules. Machine learning is the approach that depends on learning from data.
+
+The quality of the examples matters a great deal. If the examples are few, unbalanced, or wrong, the system learns the wrong patterns. For this reason, the data used to train a system is just as important as the method used to build it.

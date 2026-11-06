@@ -1,0 +1,11 @@
+doc_id,file_name,title,category,date_written,source_type,permission_note
+01,01_what_is_ai.txt,What Is AI,AI basics,2026-11-06,Sample text written for this project,Written for this project
+02,02_what_is_machine_learning.txt,What Is Machine Learning,AI basics,2026-11-06,Sample text written for this project,Written for this project
+03,03_how_machines_learn_from_data.txt,How Machines Learn From Data,AI basics,2026-11-06,Sample text written for this project,Written for this project
+04,04_narrow_ai_and_general_ai.txt,Narrow AI and General AI,AI basics,2026-11-06,Sample text written for this project,Written for this project
+05,05_everyday_examples_of_ai.txt,Everyday Examples of AI,AI basics,2026-11-06,Sample text written for this project,Written for this project
+06,06_common_myths_about_ai.txt,Common Myths About AI,Myths,2026-11-06,Sample text written for this project,Written for this project
+07,07_limits_of_ai_answers.txt,Limits of AI Answers,Limits,2026-11-06,Sample text written for this project,Written for this project
+08,08_privacy_and_personal_data.txt,Privacy and Personal Data,Privacy,2026-11-06,Sample text written for this project,Written for this project
+09,09_safe_and_responsible_use_of_ai_tools.txt,Safe and Responsible Use of AI Tools,Responsible use,2026-11-06,Sample text written for this project,Written for this project
+10,10_good_habits_for_students_using_ai.txt,Good Habits for Students Using AI,Student habits,2026-11-06,Sample text written for this project,Written for this project

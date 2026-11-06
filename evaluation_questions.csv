@@ -1,0 +1,16 @@
+question_id,question,question_type,expected_chunk_ids
+Q01,What is artificial intelligence?,Exact words,01-001
+Q02,What is machine learning?,Exact words,02-001
+Q03,What is overfitting?,Exact words,03-002
+Q04,What is the difference between narrow AI and general AI?,Multiple answers,04-001;04-002
+Q05,Does general AI exist today?,Paraphrase,04-002
+Q06,How does a spam filter learn to recognise spam?,Paraphrase,02-002
+Q07,Why does the quality of training examples matter?,Exact words,02-004
+Q08,Why might a system trained on sunny photos fail on night photos?,Paraphrase,03-003
+Q09,Can AI be objective?,Paraphrase,06-002
+Q10,Does AI always know the latest news?,Paraphrase,06-005
+Q11,Why can an AI answer sound confident and still be wrong?,Multiple answers,03-004;07-001
+Q12,Should I share my bank card number with an AI tool?,Exact words,08-002
+Q13,Should I ask permission before sharing a friend's photo with an AI tool?,Exact words,08-003
+Q14,How can a student avoid simply copying AI answers?,Ambiguous,10-001;10-004
+Q15,Should I check an AI answer before I use it?,Multiple answers,07-004;09-003

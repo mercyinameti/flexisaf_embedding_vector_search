@@ -1,0 +1,16 @@
+question_id,question_type,Vector_top1,Vector_top3,Vector_top5,Keyword_top1,Keyword_top3,Keyword_top5,Hybrid_top1,Hybrid_top3,Hybrid_top5
+Q01,Exact words,yes,yes,yes,yes,yes,yes,yes,yes,yes
+Q02,Exact words,yes,yes,yes,no,yes,yes,yes,yes,yes
+Q03,Exact words,yes,yes,yes,yes,yes,yes,yes,yes,yes
+Q04,Multiple answers,no,yes,yes,no,yes,yes,no,yes,yes
+Q05,Paraphrase,yes,yes,yes,yes,yes,yes,yes,yes,yes
+Q06,Paraphrase,yes,yes,yes,yes,yes,yes,yes,yes,yes
+Q07,Exact words,yes,yes,yes,yes,yes,yes,yes,yes,yes
+Q08,Paraphrase,yes,yes,yes,yes,yes,yes,yes,yes,yes
+Q09,Paraphrase,yes,yes,yes,yes,yes,yes,yes,yes,yes
+Q10,Paraphrase,yes,yes,yes,yes,yes,yes,yes,yes,yes
+Q11,Multiple answers,yes,yes,yes,no,yes,yes,yes,yes,yes
+Q12,Exact words,yes,yes,yes,yes,yes,yes,yes,yes,yes
+Q13,Exact words,yes,yes,yes,yes,yes,yes,yes,yes,yes
+Q14,Ambiguous,yes,yes,yes,no,no,no,no,yes,yes
+Q15,Multiple answers,yes,yes,yes,no,yes,yes,yes,yes,yes

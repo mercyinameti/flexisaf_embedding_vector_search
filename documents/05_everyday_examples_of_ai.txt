@@ -1,0 +1,9 @@
+Everyday Examples of AI
+
+AI is already part of many things people use every day, often without noticing. A phone that unlocks with your face uses AI to recognise your features. A map app that estimates travel time uses AI to predict traffic. A messaging app that suggests the next word uses AI to predict likely text.
+
+Online shopping and streaming services also rely on AI. A shop may recommend products based on what you viewed before, and a video service may suggest films based on what you watched. These systems learn patterns from many users' past behaviour and use them to make predictions about what you might want next.
+
+Other examples are less visible. Banks use AI to flag transactions that look unusual, and email services use it to sort spam from important messages. Some hospitals use AI to help review medical images, with a doctor making the final decision.
+
+These examples show that AI is usually built into a tool for a specific purpose. Knowing where AI is used helps you ask better questions about how a tool works, what data it uses, and when a human should check its results.

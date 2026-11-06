@@ -1,0 +1,9 @@
+Safe and Responsible Use of AI Tools
+
+Using an AI tool safely starts with knowing what it is for. Use it for tasks it does well, such as explaining a concept, drafting a first version of text, or suggesting ideas. Be more cautious when the task involves health, money, legal matters, or decisions that affect other people.
+
+Responsible use also means being honest about where AI helped. If an AI tool wrote part of an assignment, a report, or a piece of code, say so when the rules require it. Passing off AI-generated work as entirely your own can break academic or workplace rules, and it stops you from learning the material yourself.
+
+Check the output before you rely on it. Read the answer critically, test any code, verify facts against reliable sources, and watch for claims that sound too neat or too certain. If something seems wrong, trust your judgement and investigate further.
+
+Finally, be careful about what you ask an AI tool to do. Avoid using it to create false information, to impersonate real people, or to harm others. Responsible use protects you, the people around you, and the wider trust that people place in these tools.

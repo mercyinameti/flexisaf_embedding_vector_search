@@ -1,0 +1,338 @@
+[
+  {
+    "chunk_id": "01-001",
+    "doc_id": "01",
+    "title": "What Is AI",
+    "category": "AI basics",
+    "date_written": "2026-11-06",
+    "text": "Artificial intelligence, or AI, is the field of building computer systems that do tasks which normally need human thinking. Those tasks include recognising pictures, understanding spoken or written language, and making predictions from past information."
+  },
+  {
+    "chunk_id": "01-002",
+    "doc_id": "01",
+    "title": "What Is AI",
+    "category": "AI basics",
+    "date_written": "2026-11-06",
+    "text": "Many everyday tools use AI. A phone may unlock with your face, a map app may estimate how long a trip will take, and a messaging app may suggest the next word you want to type. Each of these tools was built to handle one kind of task well."
+  },
+  {
+    "chunk_id": "01-003",
+    "doc_id": "01",
+    "title": "What Is AI",
+    "category": "AI basics",
+    "date_written": "2026-11-06",
+    "text": "AI does not think the way people do. An AI system does not have feelings, personal experiences, or an understanding of the world in the way a person does. Instead, it works by following patterns it has learned from large amounts of data, or by following rules that people wrote for it."
+  },
+  {
+    "chunk_id": "01-004",
+    "doc_id": "01",
+    "title": "What Is AI",
+    "category": "AI basics",
+    "date_written": "2026-11-06",
+    "text": "Because the term is so broad, people use it in many different ways. Some use it for a simple rule-based program, while others use it for systems that learn from data. This is why it helps to ask what a specific tool actually does, rather than accepting the label on its own."
+  },
+  {
+    "chunk_id": "01-005",
+    "doc_id": "01",
+    "title": "What Is AI",
+    "category": "AI basics",
+    "date_written": "2026-11-06",
+    "text": "Understanding what AI is, and what it is not, is the first step toward using it well. It helps you judge when an AI tool is useful, and when its answers should be checked."
+  },
+  {
+    "chunk_id": "02-001",
+    "doc_id": "02",
+    "title": "What Is Machine Learning",
+    "category": "AI basics",
+    "date_written": "2026-11-06",
+    "text": "Machine learning is one way of building AI. Instead of a programmer writing every rule by hand, the system learns patterns from examples. You show it many examples, and it adjusts itself until it can make useful predictions about new examples it has not seen before."
+  },
+  {
+    "chunk_id": "02-002",
+    "doc_id": "02",
+    "title": "What Is Machine Learning",
+    "category": "AI basics",
+    "date_written": "2026-11-06",
+    "text": "A simple example is spam filtering. A developer does not write a list of every possible spam message. Instead, they give the system thousands of emails, each labelled as spam or not spam. The system finds patterns in the labelled examples, such as certain words, links, or sender habits, and uses them to judge new emails."
+  },
+  {
+    "chunk_id": "02-003",
+    "doc_id": "02",
+    "title": "What Is Machine Learning",
+    "category": "AI basics",
+    "date_written": "2026-11-06",
+    "text": "Machine learning is part of AI, but it is not the same thing as all of AI. Some AI systems still rely mainly on written rules. Machine learning is the approach that depends on learning from data."
+  },
+  {
+    "chunk_id": "02-004",
+    "doc_id": "02",
+    "title": "What Is Machine Learning",
+    "category": "AI basics",
+    "date_written": "2026-11-06",
+    "text": "The quality of the examples matters a great deal. If the examples are few, unbalanced, or wrong, the system learns the wrong patterns. For this reason, the data used to train a system is just as important as the method used to build it."
+  },
+  {
+    "chunk_id": "03-001",
+    "doc_id": "03",
+    "title": "How Machines Learn From Data",
+    "category": "AI basics",
+    "date_written": "2026-11-06",
+    "text": "A machine learning system learns by adjusting itself to reduce its mistakes. It starts with a guess, compares that guess with the correct answer in the training data, and then changes its internal settings a little. It repeats this process many times until its guesses are consistently close to the correct answers."
+  },
+  {
+    "chunk_id": "03-002",
+    "doc_id": "03",
+    "title": "How Machines Learn From Data",
+    "category": "AI basics",
+    "date_written": "2026-11-06",
+    "text": "The data used for learning is usually split into two parts. The training data is the part the system learns from. The test data is kept aside, and it is used afterwards to check whether the system can handle examples it has not seen before. A system that performs well on training data but poorly on test data has not learned a general pattern. It has memorised the examples, which is called overfitting."
+  },
+  {
+    "chunk_id": "03-003",
+    "doc_id": "03",
+    "title": "How Machines Learn From Data",
+    "category": "AI basics",
+    "date_written": "2026-11-06",
+    "text": "Learning from data depends on what the data contains. If a system learns to recognise cats from photos taken mostly in bright sunlight, it may struggle with photos taken at night. The system learns the patterns it sees, not the patterns the people building it intended."
+  },
+  {
+    "chunk_id": "03-004",
+    "doc_id": "03",
+    "title": "How Machines Learn From Data",
+    "category": "AI basics",
+    "date_written": "2026-11-06",
+    "text": "This is why people who use AI tools should ask where the system's knowledge came from. A tool built from narrow or biased data will tend to give narrow or biased answers, even when its wording sounds confident."
+  },
+  {
+    "chunk_id": "04-001",
+    "doc_id": "04",
+    "title": "Narrow AI and General AI",
+    "category": "AI basics",
+    "date_written": "2026-11-06",
+    "text": "Most AI systems in use today are narrow AI. A narrow AI system is built to do one specific task or a small set of related tasks well. A spam filter, a translation app, and a face-unlock feature are all narrow AI. Each one performs its task within limits, and it cannot simply switch to a different task on its own."
+  },
+  {
+    "chunk_id": "04-002",
+    "doc_id": "04",
+    "title": "Narrow AI and General AI",
+    "category": "AI basics",
+    "date_written": "2026-11-06",
+    "text": "General AI, sometimes called artificial general intelligence, would be a system able to learn and perform a wide range of intellectual tasks, the way a person can. It could move between subjects, transfer what it learned in one area to another, and handle problems it was never specifically built for. Such a system does not exist yet, and experts disagree about when, or whether, it will be built."
+  },
+  {
+    "chunk_id": "04-003",
+    "doc_id": "04",
+    "title": "Narrow AI and General AI",
+    "category": "AI basics",
+    "date_written": "2026-11-06",
+    "text": "The difference matters because the two are often confused in news and conversation. A system that writes fluent text or answers many questions can look general, but it may still be narrow in how it works, trained for particular kinds of patterns and tasks."
+  },
+  {
+    "chunk_id": "04-004",
+    "doc_id": "04",
+    "title": "Narrow AI and General AI",
+    "category": "AI basics",
+    "date_written": "2026-11-06",
+    "text": "When you read about AI, check which kind is being described. A claim about a narrow tool, such as a photo classifier, is very different from a claim about a system that can do anything a person can do."
+  },
+  {
+    "chunk_id": "05-001",
+    "doc_id": "05",
+    "title": "Everyday Examples of AI",
+    "category": "AI basics",
+    "date_written": "2026-11-06",
+    "text": "AI is already part of many things people use every day, often without noticing. A phone that unlocks with your face uses AI to recognise your features. A map app that estimates travel time uses AI to predict traffic. A messaging app that suggests the next word uses AI to predict likely text."
+  },
+  {
+    "chunk_id": "05-002",
+    "doc_id": "05",
+    "title": "Everyday Examples of AI",
+    "category": "AI basics",
+    "date_written": "2026-11-06",
+    "text": "Online shopping and streaming services also rely on AI. A shop may recommend products based on what you viewed before, and a video service may suggest films based on what you watched. These systems learn patterns from many users' past behaviour and use them to make predictions about what you might want next."
+  },
+  {
+    "chunk_id": "05-003",
+    "doc_id": "05",
+    "title": "Everyday Examples of AI",
+    "category": "AI basics",
+    "date_written": "2026-11-06",
+    "text": "Other examples are less visible. Banks use AI to flag transactions that look unusual, and email services use it to sort spam from important messages. Some hospitals use AI to help review medical images, with a doctor making the final decision."
+  },
+  {
+    "chunk_id": "05-004",
+    "doc_id": "05",
+    "title": "Everyday Examples of AI",
+    "category": "AI basics",
+    "date_written": "2026-11-06",
+    "text": "These examples show that AI is usually built into a tool for a specific purpose. Knowing where AI is used helps you ask better questions about how a tool works, what data it uses, and when a human should check its results."
+  },
+  {
+    "chunk_id": "06-001",
+    "doc_id": "06",
+    "title": "Common Myths About AI",
+    "category": "Myths",
+    "date_written": "2026-11-06",
+    "text": "Myth 1: AI thinks and understands the way people do.\nMany AI systems produce answers that sound thoughtful, but they work by finding patterns in data. They do not have beliefs, feelings, or personal understanding. A correct-sounding answer does not prove that the system understands the topic."
+  },
+  {
+    "chunk_id": "06-002",
+    "doc_id": "06",
+    "title": "Common Myths About AI",
+    "category": "Myths",
+    "date_written": "2026-11-06",
+    "text": "Myth 2: AI is always objective.\nAI systems learn from data, and data is created by people. If the data contains gaps or bias, the system can repeat those problems in its answers. An AI system can be fair in some cases and unfair in others, depending on how it was built and tested."
+  },
+  {
+    "chunk_id": "06-003",
+    "doc_id": "06",
+    "title": "Common Myths About AI",
+    "category": "Myths",
+    "date_written": "2026-11-06",
+    "text": "Myth 3: AI can replace all human judgement.\nAI can speed up routine tasks, such as sorting emails or suggesting options. But decisions with serious effects, such as medical diagnoses or hiring, still need human judgement, review, and responsibility."
+  },
+  {
+    "chunk_id": "06-004",
+    "doc_id": "06",
+    "title": "Common Myths About AI",
+    "category": "Myths",
+    "date_written": "2026-11-06",
+    "text": "Myth 4: AI is either magic or useless.\nAI is neither. It is a set of tools with real strengths and real limits. Knowing what a tool does well, and where it fails, is more useful than accepting hype or dismissing the field completely."
+  },
+  {
+    "chunk_id": "06-005",
+    "doc_id": "06",
+    "title": "Common Myths About AI",
+    "category": "Myths",
+    "date_written": "2026-11-06",
+    "text": "Myth 5: AI always knows the latest facts.\nMany AI systems learn from data collected up to a certain date. They may not know recent events, and they can state outdated or incorrect information with confidence. Important facts should be checked against reliable, current sources."
+  },
+  {
+    "chunk_id": "07-001",
+    "doc_id": "07",
+    "title": "Limits of AI Answers",
+    "category": "Limits",
+    "date_written": "2026-11-06",
+    "text": "AI systems can produce clear, fluent answers on almost any topic, but fluency is not the same as accuracy. A system may give a confident answer that is incorrect, incomplete, or made up. This is sometimes called hallucination, and it can happen even when the answer looks well organised."
+  },
+  {
+    "chunk_id": "07-002",
+    "doc_id": "07",
+    "title": "Limits of AI Answers",
+    "category": "Limits",
+    "date_written": "2026-11-06",
+    "text": "AI answers are also limited by the data they learned from. If a topic is rare, recent, or poorly documented, the system may have little reliable information to draw on. In these cases, it may fill the gaps with plausible guesses rather than saying it does not know."
+  },
+  {
+    "chunk_id": "07-003",
+    "doc_id": "07",
+    "title": "Limits of AI Answers",
+    "category": "Limits",
+    "date_written": "2026-11-06",
+    "text": "Context matters too. An AI system often does not know your situation, your location, or the purpose behind your question unless you tell it. A general answer about a medical symptom, a legal problem, or a money decision may not fit your specific case."
+  },
+  {
+    "chunk_id": "07-004",
+    "doc_id": "07",
+    "title": "Limits of AI Answers",
+    "category": "Limits",
+    "date_written": "2026-11-06",
+    "text": "Good practice is to treat an AI answer as a starting point. Check important facts against trusted sources, ask for the reasons behind an answer, and be especially careful with names, numbers, dates, and quotations, which are easy to get wrong."
+  },
+  {
+    "chunk_id": "08-001",
+    "doc_id": "08",
+    "title": "Privacy and Personal Data",
+    "category": "Privacy",
+    "date_written": "2026-11-06",
+    "text": "AI systems often learn from data, and that data can include personal information such as names, email addresses, phone numbers, photos, health records, or details about where a person lives or works. Before sharing personal information with any AI tool, it is worth asking what the tool does with the data and whether it is stored or used for training."
+  },
+  {
+    "chunk_id": "08-002",
+    "doc_id": "08",
+    "title": "Privacy and Personal Data",
+    "category": "Privacy",
+    "date_written": "2026-11-06",
+    "text": "Some information should rarely be shared with an AI tool at all. This includes passwords, bank account and card numbers, national identity numbers, private medical records, and confidential information belonging to an employer or school. Once information is entered into an online service, it may be kept longer than you expect, and you may have little control over it."
+  },
+  {
+    "chunk_id": "08-003",
+    "doc_id": "08",
+    "title": "Privacy and Personal Data",
+    "category": "Privacy",
+    "date_written": "2026-11-06",
+    "text": "Privacy also applies to other people. Sharing a friend's photo, message, or personal story with an AI tool means sharing their information, too. It is good practice to ask for their permission first, or to remove details that could identify them."
+  },
+  {
+    "chunk_id": "08-004",
+    "doc_id": "08",
+    "title": "Privacy and Personal Data",
+    "category": "Privacy",
+    "date_written": "2026-11-06",
+    "text": "Read the privacy settings and terms of any AI tool you use. Look for options to turn off data sharing or training where available, and share only the information that the task actually needs."
+  },
+  {
+    "chunk_id": "09-001",
+    "doc_id": "09",
+    "title": "Safe and Responsible Use of AI Tools",
+    "category": "Responsible use",
+    "date_written": "2026-11-06",
+    "text": "Using an AI tool safely starts with knowing what it is for. Use it for tasks it does well, such as explaining a concept, drafting a first version of text, or suggesting ideas. Be more cautious when the task involves health, money, legal matters, or decisions that affect other people."
+  },
+  {
+    "chunk_id": "09-002",
+    "doc_id": "09",
+    "title": "Safe and Responsible Use of AI Tools",
+    "category": "Responsible use",
+    "date_written": "2026-11-06",
+    "text": "Responsible use also means being honest about where AI helped. If an AI tool wrote part of an assignment, a report, or a piece of code, say so when the rules require it. Passing off AI-generated work as entirely your own can break academic or workplace rules, and it stops you from learning the material yourself."
+  },
+  {
+    "chunk_id": "09-003",
+    "doc_id": "09",
+    "title": "Safe and Responsible Use of AI Tools",
+    "category": "Responsible use",
+    "date_written": "2026-11-06",
+    "text": "Check the output before you rely on it. Read the answer critically, test any code, verify facts against reliable sources, and watch for claims that sound too neat or too certain. If something seems wrong, trust your judgement and investigate further."
+  },
+  {
+    "chunk_id": "09-004",
+    "doc_id": "09",
+    "title": "Safe and Responsible Use of AI Tools",
+    "category": "Responsible use",
+    "date_written": "2026-11-06",
+    "text": "Finally, be careful about what you ask an AI tool to do. Avoid using it to create false information, to impersonate real people, or to harm others. Responsible use protects you, the people around you, and the wider trust that people place in these tools."
+  },
+  {
+    "chunk_id": "10-001",
+    "doc_id": "10",
+    "title": "Good Habits for Students Using AI",
+    "category": "Student habits",
+    "date_written": "2026-11-06",
+    "text": "Use AI to help you learn, not to do the learning for you. Ask it to explain a difficult idea in simpler words, to give examples, or to quiz you on a topic. Then try the problem yourself before checking the answer. This builds understanding that you can use later, in an exam or at work."
+  },
+  {
+    "chunk_id": "10-002",
+    "doc_id": "10",
+    "title": "Good Habits for Students Using AI",
+    "category": "Student habits",
+    "date_written": "2026-11-06",
+    "text": "Keep a record of how you used AI. Note which tool you used, what you asked, and how you checked the answer. This habit helps you give honest credit when required, and it makes it easier to find your way back to useful information."
+  },
+  {
+    "chunk_id": "10-003",
+    "doc_id": "10",
+    "title": "Good Habits for Students Using AI",
+    "category": "Student habits",
+    "date_written": "2026-11-06",
+    "text": "Compare answers with trusted sources. Textbooks, lecture notes, official guidance, and your instructors are reliable reference points. When an AI answer disagrees with them, investigate instead of assuming either side is right."
+  },
+  {
+    "chunk_id": "10-004",
+    "doc_id": "10",
+    "title": "Good Habits for Students Using AI",
+    "category": "Student habits",
+    "date_written": "2026-11-06",
+    "text": "Protect your own thinking. If you notice that you accept AI answers without understanding them, slow down. Write your own summary of a topic in your own words, and explain it aloud to yourself or a friend. Your ability to reason, question, and decide is what AI cannot replace for you."
+  }
+]

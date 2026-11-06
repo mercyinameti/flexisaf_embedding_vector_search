@@ -1,0 +1,9 @@
+How Machines Learn From Data
+
+A machine learning system learns by adjusting itself to reduce its mistakes. It starts with a guess, compares that guess with the correct answer in the training data, and then changes its internal settings a little. It repeats this process many times until its guesses are consistently close to the correct answers.
+
+The data used for learning is usually split into two parts. The training data is the part the system learns from. The test data is kept aside, and it is used afterwards to check whether the system can handle examples it has not seen before. A system that performs well on training data but poorly on test data has not learned a general pattern. It has memorised the examples, which is called overfitting.
+
+Learning from data depends on what the data contains. If a system learns to recognise cats from photos taken mostly in bright sunlight, it may struggle with photos taken at night. The system learns the patterns it sees, not the patterns the people building it intended.
+
+This is why people who use AI tools should ask where the system's knowledge came from. A tool built from narrow or biased data will tend to give narrow or biased answers, even when its wording sounds confident.

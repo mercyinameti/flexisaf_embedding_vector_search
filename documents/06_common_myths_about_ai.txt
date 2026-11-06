@@ -1,0 +1,16 @@
+Common Myths About AI
+
+Myth 1: AI thinks and understands the way people do.
+Many AI systems produce answers that sound thoughtful, but they work by finding patterns in data. They do not have beliefs, feelings, or personal understanding. A correct-sounding answer does not prove that the system understands the topic.
+
+Myth 2: AI is always objective.
+AI systems learn from data, and data is created by people. If the data contains gaps or bias, the system can repeat those problems in its answers. An AI system can be fair in some cases and unfair in others, depending on how it was built and tested.
+
+Myth 3: AI can replace all human judgement.
+AI can speed up routine tasks, such as sorting emails or suggesting options. But decisions with serious effects, such as medical diagnoses or hiring, still need human judgement, review, and responsibility.
+
+Myth 4: AI is either magic or useless.
+AI is neither. It is a set of tools with real strengths and real limits. Knowing what a tool does well, and where it fails, is more useful than accepting hype or dismissing the field completely.
+
+Myth 5: AI always knows the latest facts.
+Many AI systems learn from data collected up to a certain date. They may not know recent events, and they can state outdated or incorrect information with confidence. Important facts should be checked against reliable, current sources.
